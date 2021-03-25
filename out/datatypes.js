@@ -1,0 +1,11 @@
+"use strict";
+var a = "Hello";
+var b = 100;
+var c = true;
+var d = 10;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+d = "G";
+console.log(d);

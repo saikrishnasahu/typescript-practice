@@ -1,0 +1,14 @@
+npm install -g typescript -- installs typescript globally
+
+tsc <file_name>.ts --out <other_name>.js --watch   = compile ts to js
+node <file_name>.js = run js file
+
+tsc --init = generate tsconfig.json file
+
+npm init = generate package.json
+
+npm install request lodash --save
+npm install @types/request @types/lodash --save-dev
+var <variable_name> : datatype = value - declaring variable  --  datatype is optional
+
+data type - number, string, boolean, any
